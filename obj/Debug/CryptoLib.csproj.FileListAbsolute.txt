@@ -1,0 +1,5 @@
+C:\Users\Diana\Desktop\CryptoLib\CryptoLib\obj\Debug\CryptoLib.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Desktop\CryptoLib\CryptoLib\bin\Debug\CryptoLib.dll
+C:\Users\Diana\Desktop\CryptoLib\CryptoLib\bin\Debug\CryptoLib.pdb
+C:\Users\Diana\Desktop\CryptoLib\CryptoLib\obj\Debug\CryptoLib.dll
+C:\Users\Diana\Desktop\CryptoLib\CryptoLib\obj\Debug\CryptoLib.pdb
